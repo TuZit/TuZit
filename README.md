@@ -30,16 +30,16 @@
 <!-- https://icons8.com -->
 <div align="center">
    <a href="https://www.facebook.com/SleepingSlayer/" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="facebook" />
+    <img src="https://img.icons8.com/doodle/100/000000/facebook-new.png" alt="facebook"/>
   </a>
    <a href="https://www.linkedin.com/in/anh-t%C3%BA-2a8454171/" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="linkedin" />
+    <img src="https://img.icons8.com/doodle/100/000000/linkedin--v2.png" alt="linkedin"/>
   </a>
   <a href="https://www.instagram.com/t.u_u.u/" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="instagram" />
+    <img src="https://img.icons8.com/stickers/100/000000/instagram-new--v1.png"  alt="instagram"/>
   </a>
   <a href="mailto:nguyentuanh141.uet.vnu@gmail.com" target="top">
-    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="email" />
+    <img src="https://img.icons8.com/external-kiranshastry-lineal-color-kiranshastry/100/000000/external-email-cyber-security-kiranshastry-lineal-color-kiranshastry-1.png" alt="email"/>
   </a>
 </div>
 
