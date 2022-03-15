@@ -4,7 +4,7 @@
 </a>
 <br>
 <br>
-<h2 align="center">🛠 Technologies and Tools 🛠</h2>
+<h2 align="center">🔭 Technologies and Tools 🔭</h2>
 <br>
 <!-- https://simpleicons.org/ -->
 <div align="center">
@@ -26,7 +26,7 @@
 <br>
 <br>
 <br>
-<h2 align="center">👽 Contact Me  👽</h2>
+<h2 align="center">🐧 Contact Me  🐧</h2>
 <br>
 <!-- https://icons8.com -->
 <div align="center">
